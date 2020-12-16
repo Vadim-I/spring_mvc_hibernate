@@ -1,1 +1,1 @@
-# spring_mvc_hibernate
+### Spring MVC and Hibernate application "Employee database"
